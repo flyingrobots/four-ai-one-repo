@@ -1,0 +1,17 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+__MACOSX/
+
+# macOS resource forks
+._*
+
+# Spotlight files
+.Spotlight-V100
+.Trashes
+
+# Obsidian vault folder
+.obsidian/
